@@ -35,7 +35,9 @@ La obesidad y el sobrepeso han sido temas recurrentes en México. Durante décad
    Muestra el modelo de regresión lineal de los años ajustados sobre obesidad en México durante  1975-2016.  
    
 -  [**`Dashboard (Web APP):`**](ProyectoFinal/app.R)
-   Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. __*Considere establecer correctamente el directorio del trabajo__
+   Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. 
+    __*Considere establecer correctamente el directorio del trabajo, si el programa no corre__
+    __*Las gráficas tardán unos momentos para visualizar en la web app__
 
 ---
 ### Desarrollo: 
