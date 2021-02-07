@@ -3,6 +3,7 @@
 <img src="https://cdn.pixabay.com/photo/2015/10/12/15/18/store-984393_960_720.jpg" align="center" height="250" width="350" hspace="10">
 <div style="text-align: justify;">
 
+---
 ### Integrantes: 
 
 - Axel Flores Guarneros.
@@ -10,7 +11,25 @@
 - Ariel Arturo Ríos Sierra.  
 - Evelyn Jocelyn Gonzalez Acevedo
 
+---
+### Contenido del Repositorio:
 
+-  [**`Proyecto_final.R`**](Proyecto_final.R)
+   Incluye el análisis de las variables Porcentaje de Obesidad, ECI, PIB Y ventas en millones de dólares por Entidad Federativa. Se realizó la carga de datasets, limpieza, graficación y visualización de resultados.  
+   
+-  [**`Mapas`**](mapas/Mapa_TOP5.R)
+   El programa Mapa_TOP5.r contiene la ubicación geográfica de tiendas de ropa por estado del top 5 así como las respectivas zonas de acumulación de mayor o menor número de tiendas.
+   
+-  [**`Colores:`**](Colores/Colores.R)
+   Contiene el mapa de concentración visual de los niveles de obesidad por entidad federativa en México.  
+   
+-  [**`Regresion:`**](Regresion/Regresa.R)
+   Muestra el modelo de regresión lineal de los años ajustados sobre obesidad en México durante  1975-2016.  
+   
+-  [**`Dashboard (Web APP):`**](ProyectoFinal/app.R)
+   Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. [**`Ver online aqí`**](ProyectoFinal/app.R)
+
+---
 ### Introducción: 
 
 La industria textil ha proliferado en los territorios más extensos, abarcando países extranjeros y sobre todo México. Su comercio ha crecido exponencialmente durante estas décadas, exponiendo una división de grupos con requerimientos especiales. Vamos a abordar dicho tema desde un punto de vista estadístico.
@@ -19,6 +38,7 @@ La obesidad y el sobrepeso han sido temas recurrentes en México. Durante décad
 
 > Estamos frente a ustedes para presentarles algo innovador, necesario y a su vez emprendedor.
 
+---
 ### Desarrollo: 
 
 #### ¿Pero de qué estamos hablando? 
@@ -75,8 +95,7 @@ Se contemplaron 4 variables estadísticas en orden de importancia.
 
 Los mapas muestran la distribución municipal de las tiendas de ropa registradas mediante puntos naranjas, y haciendo un recuento por colonia  Los puntos negros representan una concentracion de 20 a 50 tiendas en una misma colonia apreciando asi lsa zonas con mayor y menor concentración de tiendas de ropa.
 
-
-
+---
 ### PROBLEMAS PRESENTADOS
 
 -   Bases de Datos Incompletas o con atributos relacionales distintos : es común que la información en cada Base de datos presente variaciones ya sea por su acentuación o abreviación en los nombres, por lo cual representa una problemática al momento de correlacionar Bases de datos. 
@@ -88,6 +107,7 @@ Los mapas muestran la distribución municipal de las tiendas de ropa registradas
 
 -   Difícil acceso y variedad a bases de Datos(algunas de ellas exigen un pago por su adquisición):  Debido a que la mayoría de las bases de datos gratuitas solo presentan análisis globales y aquellas que contienen un análisis específico de  un tema o variable, comúnmente deben ser adquiridas de páginas o plataformas que exigen un pago por la adquisición de ellas. 
 
+---
 ### CONCLUSIÓN
 ##### Los Hallazgos presentados en este análisis estadístico fueron los siguientes:
 
@@ -101,7 +121,7 @@ Igualmente se pudo certificar en cada uno de los estados la ubicacion estrategic
 -   Coahuila(SUR)
 -   Tamaulipas(SUR)
 
-
+---
 ### Fuente de datos:
 -	Porcentaje de Obesidad:
     -  [**`ENSANUT 2018-2019`**](https://www.inegi.org.mx/programas/ensanut/2018/#Tabulados)
