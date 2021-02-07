@@ -1,7 +1,15 @@
-## Tema: Análisis de mercado de Ropa Tallas Extra
+## Tema: Análisis de mercado de Ropa para Tallas Extra
 
-<img src="https://cdn.pixabay.com/photo/2015/10/12/15/18/store-984393_960_720.jpg" align="center" height="250" width="350" hspace="10">
+<img src="https://cdn.pixabay.com/photo/2015/10/12/15/18/store-984393_960_720.jpg" align="right" height="250" width="350" hspace="10">
 <div style="text-align: justify;">
+
+### Introducción: 
+
+La industria textil ha proliferado en los territorios más extensos, abarcando países extranjeros y sobre todo México. Su comercio ha crecido exponencialmente durante estas décadas, exponiendo una división de grupos con requerimientos especiales. Vamos a abordar dicho tema desde un punto de vista estadístico.
+
+La obesidad y el sobrepeso han sido temas recurrentes en México. Durante décadas no se ha parado de exponer las complicaciones de salud que conlleva padecer dichas enfermedades, sin embargo, adentrándonos a la vida cotidiana de este nicho, es evidente que más problemas se han creado alrededor de ellos.
+
+> Estamos frente a ustedes para presentarles algo innovador, necesario y a su vez emprendedor.   
 
 ---
 ### Integrantes: 
@@ -28,15 +36,6 @@
    
 -  [**`Dashboard (Web APP):`**](ProyectoFinal/app.R)
    Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. __*Considere establecer correctamente el directorio del trabajo__
-
----
-### Introducción: 
-
-La industria textil ha proliferado en los territorios más extensos, abarcando países extranjeros y sobre todo México. Su comercio ha crecido exponencialmente durante estas décadas, exponiendo una división de grupos con requerimientos especiales. Vamos a abordar dicho tema desde un punto de vista estadístico.
-
-La obesidad y el sobrepeso han sido temas recurrentes en México. Durante décadas no se ha parado de exponer las complicaciones de salud que conlleva padecer dichas enfermedades, sin embargo, adentrándonos a la vida cotidiana de este nicho, es evidente que más problemas se han creado alrededor de ellos.
-
-> Estamos frente a ustedes para presentarles algo innovador, necesario y a su vez emprendedor.
 
 ---
 ### Desarrollo: 
