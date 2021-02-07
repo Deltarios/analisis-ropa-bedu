@@ -27,7 +27,7 @@
    Muestra el modelo de regresión lineal de los años ajustados sobre obesidad en México durante  1975-2016.  
    
 -  [**`Dashboard (Web APP):`**](ProyectoFinal/app.R)
-   Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. [**`Ver online aqí`**](ProyectoFinal/app.R)
+   Dashboard del Proyecto de Tiendas de Ropa Tallas Extra, incluye el análisis, datos, gráficas, mapas de todo el proyecto para la selección de los estados     potenciales en donde ubicar tiendas de ropa tallas extra. __*Considere establecer correctamente el directorio del trabajo__
 
 ---
 ### Introducción: 
