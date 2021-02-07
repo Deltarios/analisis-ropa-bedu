@@ -7,4 +7,4 @@
 - Ariel Arturo Ríos Sierra.  
 - Evelyn Jocelyn Gonzalez Acevedo
 
-[![Reproducir](https://raw.githubusercontent.com/Deltarios/viability-clothes-store/master/portada-video.png)](https://drive.google.com/file/d/1bX0Sfa80jR5H9wQVwAk1NSU-qtmkxPAV/view?usp=sharing)
+[![Reproducir](https://raw.githubusercontent.com/Deltarios/viability-clothes-store/master/portada-video.png)(https://drive.google.com/file/d/1f0mJITD4BfXzuvMn2CX9R06JdkvLk50T/view?usp=sharing)
